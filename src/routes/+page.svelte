@@ -3,7 +3,7 @@
 <p>or</p>
 
 <form>
-	<input />
+  <input />
 
-	<button>join</button>
+  <button>join</button>
 </form>
